@@ -1,0 +1,19 @@
+{
+  "name": "Quiz Certificate NFT",
+  "description": "Certificate for completing the quiz",
+  "image": "ipfs://QmTF2m735SXMoTjguvVjZoEQ3zEoGWfTJeCM6Bghm3eNP1",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Souhail El Mahdani"
+    },
+    {
+      "trait_type": "Score",
+      "value": "99/100"
+    },
+    {
+      "trait_type": "Date",
+      "value": "09/07/2024"
+    }
+  ]
+}
